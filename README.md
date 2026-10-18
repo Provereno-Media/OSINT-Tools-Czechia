@@ -4,7 +4,7 @@
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to Czechia. Most of the resources and tools has versions in Czech; several also offer English interfaces. Since 17 December 2025 the Register of Beneficial Owners (Evidence skutečných majitelů) is no longer open to the general public, following the CJEU judgment of 22 November 2022 (C-37/20, C-601/20) and rulings of Czech supreme courts: access is limited to public authorities, AML-obliged persons and persons who prove a legitimate interest through a court. Vehicle owner data and the small-vessel register are not public. Many justice.cz applications block automated access, and several state portals work only with JavaScript enabled. Police search databases and the CZ.NIC WHOIS log every query.
 
 
-**Last Updated:** 2026-10-12
+![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Czechia?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
